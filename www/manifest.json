@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190713",
+    "name": "Willekleur",
+    "default_locale": "nl",
+    "description": "Website + domeinnaam, 2013. Vereist JavaScript-ondersteuning.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "black",
+    "homepage_url": "https://willekleur.nl/",
+    "start_url": "https://willekleur.nl/",
+    "icons": [
+        {
+            "src": "https://willekleur.nl/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}

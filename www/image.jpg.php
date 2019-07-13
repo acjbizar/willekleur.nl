@@ -1,7 +1,7 @@
 <?php
 
-$width = 320;
-$height = 240;
+$width = 640;
+$height = 480;
 
 $img = imagecreatetruecolor($width, $height);
 
