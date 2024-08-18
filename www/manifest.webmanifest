@@ -1,0 +1,19 @@
+{
+  "$schema": "https:\/\/json.schemastore.org\/web-manifest-combined.json",
+  "lang": "nl",
+  "dir": "ltr",
+  "name": "Willekleur",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://willekleur.nl/apple-touch-icon-precomposed.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "id": "https://willekleur.nl/",
+  "theme_color": "white",
+  "background_color": "black"
+}
